@@ -1,0 +1,20 @@
+.ks-page>.ks-body>.ks-panel{
+    direction: rtl !important;
+}
+.navbar > .wrapper > .nav > .navbar-actions > .user > .dropdown-toggle > .info {
+    margin-right: 12px;
+    margin-left: 0 !important;
+}
+.input-icon.icon-left input {
+    padding-right: 38px  !important;
+}
+.input-icon.icon-lg.icon-left .icon-addon {
+    padding-right: 5px  !important;
+}
+.input-icon.icon-left .icon-addon {
+    right: 0 !important;
+    left: initial !important;
+}
+.chk-remember2{
+    margin-right: 3px;
+}
